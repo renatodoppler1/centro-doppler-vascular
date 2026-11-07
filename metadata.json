@@ -1,0 +1,6 @@
+{
+  "name": "Centro Doppler Vascular y Ecografía Especializada",
+  "description": "Sitio institucional del Centro Doppler Vascular y Ecografía Especializada. Dr. René García Córdoba, especialista en Radiología e Imágenes Diagnósticas, Fellow en Doppler Vascular.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
